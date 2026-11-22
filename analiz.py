@@ -42,11 +42,17 @@ def team_stats(team_id, cache):
     if team_id in cache:
         return cache[team_id]
 
-    games = api("/fixtures", {
-        "team": team_id,
-        "last": 10,
-        "status": "FT"
-    })
+games = api("/fixtures", {
+    "team": team_id,
+    "season": 2026,
+    "status": "FT"
+})
+
+games = sorted(
+    games,
+    key=lambda g: g.get("fixture", {}).get("date", ""),
+    reverse=True
+)[:10]
 
     scored = []
     conceded = []
