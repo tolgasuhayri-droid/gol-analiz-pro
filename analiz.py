@@ -30,29 +30,22 @@ def api(endpoint, params):
         raise RuntimeError(str(data["errors"]))
     return data.get("response", [])
 
-def poisson_over(lam, line):
-    threshold = int(line)
-    under = sum(
-        math.exp(-lam) * lam**k / math.factorial(k)
-        for k in range(threshold + 1)
-    )
-    return round(max(0, min(1, 1 - under)), 4)
 
 def team_stats(team_id, cache):
     if team_id in cache:
         return cache[team_id]
 
-games = api("/fixtures", {
-    "team": team_id,
-    "season": 2026,
-    "status": "FT"
-})
+    games = api("/fixtures", {
+        "team": team_id,
+        "season": 2026,
+        "status": "FT"
+    })
 
-games = sorted(
-    games,
-    key=lambda g: g.get("fixture", {}).get("date", ""),
-    reverse=True
-)[:10]
+    games = sorted(
+        games,
+        key=lambda g: g.get("fixture", {}).get("date", ""),
+        reverse=True
+    )[:10]
 
     scored = []
     conceded = []
