@@ -2,6 +2,16 @@
 import os
 import json
 import math
+
+def poisson_over(lam, line):
+    if lam < 0:
+        return 0.0
+    k = int(line)
+    probability_under = sum(
+        math.exp(-lam) * lam**i / math.factorial(i)
+        for i in range(k + 1)
+    )
+    return max(0.0, min(1.0, 1 - probability_under))
 import requests
 from datetime import datetime
 from zoneinfo import ZoneInfo
