@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T15:43:50.546754+03:00",
+  "updated_at": "2026-11-22T15:52:32.236303+03:00",
   "matches": [
     {
       "fixture_id": 1557472,
@@ -466,20 +466,20 @@
       "away_n": 10
     },
     {
-      "fixture_id": 1643135,
-      "kickoff": "2026-11-22T15:45:00+03:00",
-      "league": "Pro League U23",
-      "home": "Al Jazira U23",
-      "away": "Khorfakkan U23",
+      "fixture_id": 1494340,
+      "kickoff": "2026-11-22T16:00:00+03:00",
+      "league": "Allsvenskan",
+      "home": "BK Hacken",
+      "away": "IF Elfsborg",
       "status": "NS",
-      "over25": 0.4721,
-      "over35": 0.2559,
-      "ht_over05": 0.695,
-      "ht_over15": 0.3329,
+      "over25": 0.5064,
+      "over35": 0.2859,
+      "ht_over05": 0.6671,
+      "ht_over15": 0.301,
       "analysis_status": "Hesaplandı",
-      "lambda_total": 2.56,
-      "home_n": 8,
-      "away_n": 8
+      "lambda_total": 2.7,
+      "home_n": 10,
+      "away_n": 10
     }
   ]
 }
