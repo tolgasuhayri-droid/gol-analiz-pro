@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T11:58:51.914490+03:00",
+  "updated_at": "2026-11-22T12:03:13.275046+03:00",
   "matches": [
     {
       "fixture_id": 1559840,
@@ -4457,13 +4457,13 @@
       "home": "Barcelona",
       "away": "Villarreal",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "lambda_total": null,
-      "home_n": null,
-      "away_n": null
+      "over25": 70.2,
+      "over35": 49.1,
+      "ht_over05": 83.3,
+      "ht_over15": 53.4,
+      "lambda_total": 3.63,
+      "home_n": 61,
+      "away_n": 47
     },
     {
       "fixture_id": 1574028,
@@ -7753,13 +7753,13 @@
       "home": "Hull City",
       "away": "Brighton",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "lambda_total": null,
-      "home_n": null,
-      "away_n": null
+      "over25": 53.6,
+      "over35": 31.3,
+      "ht_over05": 68.3,
+      "ht_over15": 31.8,
+      "lambda_total": 2.82,
+      "home_n": 53,
+      "away_n": 48
     },
     {
       "fixture_id": 1558046,
@@ -10345,13 +10345,13 @@
       "home": "Racing Santander",
       "away": "Real Sociedad",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "lambda_total": null,
-      "home_n": null,
-      "away_n": null
+      "over25": 48.7,
+      "over35": 26.9,
+      "ht_over05": 70.4,
+      "ht_over15": 34.4,
+      "lambda_total": 2.62,
+      "home_n": 53,
+      "away_n": 61
     },
     {
       "fixture_id": 1616478,
@@ -11753,13 +11753,13 @@
       "home": "Liverpool",
       "away": "Manchester United",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "lambda_total": null,
-      "home_n": null,
-      "away_n": null
+      "over25": 60.1,
+      "over35": 37.7,
+      "ht_over05": 75.1,
+      "ht_over15": 40.4,
+      "lambda_total": 3.11,
+      "home_n": 59,
+      "away_n": 63
     },
     {
       "fixture_id": 1558045,
@@ -13426,6 +13426,6 @@
       "away_n": null
     }
   ],
-  "analysis_count": 0,
+  "analysis_count": 4,
   "requests_used": 51
 }
