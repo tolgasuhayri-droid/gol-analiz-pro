@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T15:13:33.879256+03:00",
+  "updated_at": "2026-11-22T15:43:50.546754+03:00",
   "matches": [
     {
       "fixture_id": 1557472,
@@ -338,22 +338,6 @@
       "away_n": 10
     },
     {
-      "fixture_id": 1558681,
-      "kickoff": "2026-11-22T15:30:00+03:00",
-      "league": "Jupiler Pro League",
-      "home": "SK Beveren",
-      "away": "Gent",
-      "status": "NS",
-      "over25": 0.5424,
-      "over35": 0.3192,
-      "ht_over05": 0.6988,
-      "ht_over15": 0.3374,
-      "analysis_status": "Hesaplandı",
-      "lambda_total": 2.85,
-      "home_n": 10,
-      "away_n": 10
-    },
-    {
       "fixture_id": 1558685,
       "kickoff": "2026-11-22T18:00:00+03:00",
       "league": "Jupiler Pro League",
@@ -480,6 +464,22 @@
       "lambda_total": 3.2,
       "home_n": 10,
       "away_n": 10
+    },
+    {
+      "fixture_id": 1643135,
+      "kickoff": "2026-11-22T15:45:00+03:00",
+      "league": "Pro League U23",
+      "home": "Al Jazira U23",
+      "away": "Khorfakkan U23",
+      "status": "NS",
+      "over25": 0.4721,
+      "over35": 0.2559,
+      "ht_over05": 0.695,
+      "ht_over15": 0.3329,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.56,
+      "home_n": 8,
+      "away_n": 8
     }
   ]
 }
