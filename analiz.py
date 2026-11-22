@@ -53,7 +53,7 @@ def team_stats(team_id, cache):
     if team_id in cache:
         return cache[team_id]
     # Last completed fixtures without restricted season parameter.
-    games = api('/fixtures', {'team': team_id, 'last': 10})
+    games = api('/fixtures', {'team': team_id, 'season': 2024, 'status': 'FT'})
     if games is None:
         cache[team_id] = None
         return None
