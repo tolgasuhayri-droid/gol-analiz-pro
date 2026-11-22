@@ -1,4 +1,69 @@
-let matches=[],market='over25';const $=id=>document.getElementById(id);const safe=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-function render(){let min=Number($('cut').value)/100,league=$('league').value;let data=matches.filter(m=>m[market]>=min&&(!league||m.league===league)).sort((a,b)=>b[market]-a[market]);$('status').textContent=`${data.length} maç gösteriliyor (${matches.length} maç incelendi)`;$('results').innerHTML=data.length?data.map(m=>`<article class="panel"><div class="muted">${safe(m.league)} · ${safe(new Date(m.kickoff).toLocaleString('tr-TR',{dateStyle:'medium',timeStyle:'short'}))}</div><div class="match"><div><h3>${safe(m.home)} – ${safe(m.away)}</h3><div class="muted">Beklenen gol: ${Number(m.lambda_total).toFixed(2)} · Örneklem: ${m.home_n}/${m.away_n}</div></div><div class="score">%${(100*m[market]).toFixed(1)}</div></div><div class="bar"><div class="fill" style="width:${100*m[market]}%"></div></div></article>`).join(''):'<section class="panel">Bu filtreye uygun maç bulunamadı. Veri kaynağı henüz kurulmamış veya seçilen eşikte maç yok.</section>'}
-for(const [id,m] of [['o25','over25'],['o35','over35']])$(id).onclick=()=>{market=m;$('o25').classList.toggle('active',m==='over25');$('o35').classList.toggle('active',m==='over35');render()};$('cut').oninput=()=>{$('cutLabel').textContent=$('cut').value+'%';render()};$('league').onchange=render;
-fetch('predictions.json?ts='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(d=>{matches=Array.isArray(d.matches)?d.matches:[];$('updated').textContent=d.updated_at?'Son güncelleme: '+new Date(d.updated_at).toLocaleString('tr-TR'):'';if(d.error)$('status').textContent=d.error;let names=[...new Set(matches.map(m=>m.league))].sort();$('league').innerHTML='<option value="">Tüm ligler</option>'+names.map(n=>`<option value="${safe(n)}">${safe(n)}</option>`).join('');render()}).catch(e=>{$('status').textContent='Veri okunamadı: '+e.message;matches=[];render()});if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{});
+
+let matches = [];
+
+const $ = id => document.getElementById(id);
+
+function render() {
+  const league = $('league').value;
+
+  const data = matches.filter(m =>
+    !league || m.league === league
+  );
+
+  $('status').textContent =
+    `${data.length} maç gösteriliyor`;
+
+  $('results').innerHTML = data.map(m => {
+    const home = escapeHTML(m.home);
+    const away = escapeHTML(m.away);
+    const lig = escapeHTML(m.league);
+
+    return `
+      <article class="panel">
+        <div class="muted">${lig}</div>
+        <h3>${home} - ${away}</h3>
+        <div class="muted">
+          Durum: ${escapeHTML(m.status)}
+        </div>
+      </article>
+    `;
+  }).join('') || '<p>Maç bulunamadı.</p>';
+}
+
+function escapeHTML(s) {
+  return String(s ?? '').replace(/[&<>"']/g, c => ({
+    '&': '&amp;',
+    '<': '&lt;',
+    '>': '&gt;',
+    '"': '&quot;',
+    "'": '&#39;'
+  }[c]));
+}
+
+fetch('predictions.json?ts=' + Date.now(), {
+  cache: 'no-store'
+})
+.then(r => {
+  if (!r.ok) throw Error('HTTP ' + r.status);
+  return r.json();
+})
+.then(data => {
+  matches = Array.isArray(data) ? data : [];
+
+  const leagues = [...new Set(
+    matches.map(m => m.league).filter(Boolean)
+  )].sort();
+
+  $('league').innerHTML =
+    '<option value="">Tüm ligler</option>' +
+    leagues.map(l =>
+      `<option value="${escapeHTML(l)}">${escapeHTML(l)}</option>`
+    ).join('');
+
+  $('league').onchange = render;
+  render();
+})
+.catch(e => {
+  $('status').textContent =
+    'Veri okunamadı: ' + e.message;
+});
