@@ -37,6 +37,14 @@ jobs:
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: python analiz.py
+      
+      - name: Yeni oranli analiz motorunu test et
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: |
+          cp predictions.json predictions_eski.json
+          python analiz_oranli.py
+          mv predictions_eski.json predictions.json
 
       - name: Tahminleri kaydet
         run: |
