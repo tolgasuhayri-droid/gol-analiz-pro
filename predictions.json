@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T13:11:02.276292+03:00",
+  "updated_at": "2026-11-22T13:25:48.196081+03:00",
   "matches": [
     {
       "fixture_id": 1557472,
@@ -8,11 +8,14 @@
       "home": "Hull City",
       "away": "Brighton",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.5185,
+      "over35": 0.297,
+      "ht_over05": 0.7769,
+      "ht_over15": 0.4422,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.75,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1557473,
@@ -21,11 +24,14 @@
       "home": "Liverpool",
       "away": "Manchester United",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.5424,
+      "over35": 0.3192,
+      "ht_over05": 0.6321,
+      "ht_over15": 0.2642,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.85,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1570455,
@@ -34,11 +40,14 @@
       "home": "Barcelona",
       "away": "Villarreal",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.7469,
+      "over35": 0.5468,
+      "ht_over05": 0.8504,
+      "ht_over15": 0.5663,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 3.9,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1570459,
@@ -47,11 +56,14 @@
       "home": "Racing Santander",
       "away": "Real Sociedad",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.7391,
+      "over35": 0.5367,
+      "ht_over05": 0.8504,
+      "ht_over15": 0.5663,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 3.85,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1570458,
@@ -60,11 +72,14 @@
       "home": "Osasuna",
       "away": "Malaga",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.5768,
+      "over35": 0.3528,
+      "ht_over05": 0.7275,
+      "ht_over15": 0.3732,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 3.0,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1570456,
@@ -73,11 +88,14 @@
       "home": "Getafe",
       "away": "Atletico Madrid",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.4433,
+      "over35": 0.2318,
+      "ht_over05": 0.5934,
+      "ht_over15": 0.2275,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.45,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1550201,
@@ -86,11 +104,14 @@
       "home": "Juventus",
       "away": "Venezia",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.494,
+      "over35": 0.2749,
+      "ht_over05": 0.6321,
+      "ht_over15": 0.2642,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.65,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1550199,
@@ -99,11 +120,14 @@
       "home": "Bologna",
       "away": "Udinese",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.6201,
+      "over35": 0.3975,
+      "ht_over05": 0.7408,
+      "ht_over15": 0.3908,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 3.2,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1550206,
@@ -112,11 +136,14 @@
       "home": "Sassuolo",
       "away": "Genoa",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.6505,
+      "over35": 0.4307,
+      "ht_over05": 0.8262,
+      "ht_over15": 0.5221,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 3.35,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1550197,
@@ -125,11 +152,14 @@
       "home": "AC Milan",
       "away": "Frosinone",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.6883,
+      "over35": 0.4741,
+      "ht_over05": 0.8428,
+      "ht_over15": 0.5519,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 3.55,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1550198,
@@ -138,11 +168,14 @@
       "home": "Atalanta",
       "away": "Inter",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.6792,
+      "over35": 0.4634,
+      "ht_over05": 0.8173,
+      "ht_over15": 0.5068,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 3.5,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1575224,
@@ -151,11 +184,14 @@
       "home": "FC Augsburg",
       "away": "FSV Mainz 05",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.7998,
+      "over35": 0.6188,
+      "ht_over05": 0.8401,
+      "ht_over15": 0.547,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 4.28,
+      "home_n": 9,
+      "away_n": 9
     },
     {
       "fixture_id": 1575227,
@@ -164,11 +200,14 @@
       "home": "Werder Bremen",
       "away": "Hamburger SV",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.6688,
+      "over35": 0.4513,
+      "ht_over05": 0.7364,
+      "ht_over15": 0.3849,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 3.44,
+      "home_n": 9,
+      "away_n": 9
     },
     {
       "fixture_id": 1552825,
@@ -177,11 +216,14 @@
       "home": "Paris FC",
       "away": "Angers",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.5185,
+      "over35": 0.297,
+      "ht_over05": 0.7534,
+      "ht_over15": 0.4082,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.75,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1552821,
@@ -190,11 +232,14 @@
       "home": "Lorient",
       "away": "Rennes",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.5655,
+      "over35": 0.3416,
+      "ht_over05": 0.7654,
+      "ht_over15": 0.4253,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.95,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1552822,
@@ -203,11 +248,14 @@
       "home": "Marseille",
       "away": "Le Mans",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.6505,
+      "over35": 0.4307,
+      "ht_over05": 0.7408,
+      "ht_over15": 0.3908,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 3.35,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1584468,
@@ -216,11 +264,14 @@
       "home": "Erzurumspor FK",
       "away": "Göztepe",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.5655,
+      "over35": 0.3416,
+      "ht_over05": 0.7275,
+      "ht_over15": 0.3732,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.95,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1584471,
@@ -229,11 +280,14 @@
       "home": "Kasımpaşa",
       "away": "Alanyaspor",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.4689,
+      "over35": 0.2532,
+      "ht_over05": 0.6501,
+      "ht_over15": 0.2826,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.55,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1584473,
@@ -242,11 +296,14 @@
       "home": "Konyaspor",
       "away": "Beşiktaş",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.494,
+      "over35": 0.2749,
+      "ht_over05": 0.7275,
+      "ht_over15": 0.3732,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.65,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1584474,
@@ -255,11 +312,14 @@
       "home": "Trabzonspor",
       "away": "Eyüpspor",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.6201,
+      "over35": 0.3975,
+      "ht_over05": 0.8504,
+      "ht_over15": 0.5663,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 3.2,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1552232,
@@ -268,11 +328,14 @@
       "home": "Twente",
       "away": "Willem II",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.7469,
+      "over35": 0.5468,
+      "ht_over05": 0.7981,
+      "ht_over15": 0.4751,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 3.9,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1552225,
@@ -281,11 +344,14 @@
       "home": "Ajax",
       "away": "ADO Den Haag",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.7229,
+      "over35": 0.5162,
+      "ht_over05": 0.7878,
+      "ht_over15": 0.4588,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 3.75,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1552230,
@@ -294,11 +360,14 @@
       "home": "Sparta Rotterdam",
       "away": "AZ Alkmaar",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.7469,
+      "over35": 0.5468,
+      "ht_over05": 0.8347,
+      "ht_over15": 0.5372,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 3.9,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1552227,
@@ -307,11 +376,14 @@
       "home": "GO Ahead Eagles",
       "away": "Fortuna Sittard",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.7146,
+      "over35": 0.5058,
+      "ht_over05": 0.7654,
+      "ht_over15": 0.4253,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 3.7,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1558681,
@@ -320,11 +392,14 @@
       "home": "SK Beveren",
       "away": "Gent",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.5424,
+      "over35": 0.3192,
+      "ht_over05": 0.6988,
+      "ht_over15": 0.3374,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.85,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1558685,
@@ -333,11 +408,14 @@
       "home": "Kortrijk",
       "away": "Union St. Gilloise",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.5185,
+      "over35": 0.297,
+      "ht_over05": 0.6671,
+      "ht_over15": 0.301,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.75,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1558680,
@@ -346,11 +424,14 @@
       "home": "Anderlecht",
       "away": "OH Leuven",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.4303,
+      "over35": 0.2213,
+      "ht_over05": 0.5934,
+      "ht_over15": 0.2275,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.4,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1558687,
@@ -359,11 +440,14 @@
       "home": "Lommel United",
       "away": "Standard Liege",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.5305,
+      "over35": 0.3081,
+      "ht_over05": 0.6133,
+      "ht_over15": 0.2459,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.8,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1492460,
@@ -372,11 +456,14 @@
       "home": "Atletico Paranaense",
       "away": "Remo",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.5655,
+      "over35": 0.3416,
+      "ht_over05": 0.808,
+      "ht_over15": 0.4911,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.95,
+      "home_n": 10,
+      "away_n": 10
     },
     {
       "fixture_id": 1649570,
@@ -385,11 +472,14 @@
       "home": "Rosario Central",
       "away": "Gimnasia M.",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz"
+      "over25": 0.4172,
+      "over35": 0.2109,
+      "ht_over05": 0.6321,
+      "ht_over15": 0.2642,
+      "analysis_status": "Hesaplandı",
+      "lambda_total": 2.35,
+      "home_n": 10,
+      "away_n": 10
     }
   ]
 }
