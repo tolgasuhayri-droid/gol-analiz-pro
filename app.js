@@ -48,7 +48,7 @@ fetch('predictions.json?ts=' + Date.now(), {
   return r.json();
 })
 .then(data => {
-  matches = Array.isArray(data) ? data : [];
+  matches = Array.isArray(data.matches) ? data.matches : [];
 
   const leagues = [...new Set(
     matches.map(m => m.league).filter(Boolean)
