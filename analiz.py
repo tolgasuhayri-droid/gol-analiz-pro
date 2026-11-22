@@ -37,7 +37,7 @@ def team_stats(team_id, cache):
 
     games = api("/fixtures", {
         "team": team_id,
-        "season": 2026,
+        "season": 2024,
         "status": "FT"
     })
 
