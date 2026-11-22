@@ -15,6 +15,10 @@ def poisson_over(lam, line):
 import requests
 from datetime import datetime
 from zoneinfo import ZoneInfo
+import time
+
+MAX_API_REQUESTS = 8
+api_requests = 0
 
 TZ = ZoneInfo("Europe/Istanbul")
 now = datetime.now(TZ)
@@ -28,16 +32,33 @@ URL = "https://v3.football.api-sports.io"
 HEADERS = {"x-apisports-key": API_KEY}
 
 def api(endpoint, params):
+    global api_requests
+
+    if api_requests >= MAX_API_REQUESTS:
+        print("API istek sinirina ulasildi.")
+        return []
+
+    api_requests += 1
+
     r = requests.get(
         URL + endpoint,
         headers=HEADERS,
         params=params,
         timeout=30
     )
+
+    if r.status_code == 429:
+        print("API kotasi doldu. Yeni istek yapilmiyor.")
+        api_requests = MAX_API_REQUESTS
+        return []
+
     r.raise_for_status()
+
     data = r.json()
+
     if data.get("errors"):
         raise RuntimeError(str(data["errors"]))
+
     return data.get("response", [])
 
 
