@@ -24,7 +24,10 @@ jobs:
 
       - name: Gerekli kutuphaneleri kur
         run: pip install requests
-
+      
+      - name: Analiz motorunu test et
+        run: python test_analiz.py
+      
       - name: Mac analizini calistir
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
