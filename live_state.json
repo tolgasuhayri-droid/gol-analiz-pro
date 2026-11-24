@@ -46,5 +46,30 @@
     "home": "Slovan Bratislava",
     "away": "Real Betis",
     "league": "UEFA Champions League"
+  },
+  "1635611": {
+    "home": "Arsenal",
+    "away": "Borussia Dortmund",
+    "league": "UEFA Champions League"
+  },
+  "1635649": {
+    "home": "Como",
+    "away": "AEK Athens FC",
+    "league": "UEFA Champions League"
+  },
+  "1635663": {
+    "home": "Feyenoord",
+    "away": "FC Porto",
+    "league": "UEFA Champions League"
+  },
+  "1635692": {
+    "home": "Manchester City",
+    "away": "Napoli",
+    "league": "UEFA Champions League"
+  },
+  "1635713": {
+    "home": "RB Leipzig",
+    "away": "Lens",
+    "league": "UEFA Champions League"
   }
 }
