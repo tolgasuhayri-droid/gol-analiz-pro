@@ -36,5 +36,15 @@
         "time": "2026-11-24T18:03:57.582967+00:00"
       }
     }
+  },
+  "1635715": {
+    "home": "Real Madrid",
+    "away": "PSV Eindhoven",
+    "league": "UEFA Champions League"
+  },
+  "1635731": {
+    "home": "Slovan Bratislava",
+    "away": "Real Betis",
+    "league": "UEFA Champions League"
   }
 }
