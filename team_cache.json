@@ -1984,5 +1984,179 @@
     "conceded": 0.625,
     "ht_goals": 1.0,
     "n": 8
+  },
+  "506:136:2026": {
+    "scored": 1.4,
+    "conceded": 1.1,
+    "ht_goals": 1.0,
+    "n": 10
+  },
+  "511:136:2026": {
+    "scored": 1.0,
+    "conceded": 1.7,
+    "ht_goals": 1.2,
+    "n": 10
+  },
+  "509:136:2026": {
+    "scored": 1.1,
+    "conceded": 1.2,
+    "ht_goals": 1.0,
+    "n": 10
+  },
+  "507:136:2026": {
+    "scored": 1.6,
+    "conceded": 0.7,
+    "ht_goals": 1.1,
+    "n": 10
+  },
+  "527:136:2026": {
+    "scored": 1.0,
+    "conceded": 1.2,
+    "ht_goals": 1.3,
+    "n": 10
+  },
+  "504:136:2026": {
+    "scored": 1.7,
+    "conceded": 1.2,
+    "ht_goals": 1.1,
+    "n": 10
+  },
+  "1584:136:2026": {
+    "scored": 1.3,
+    "conceded": 2.1,
+    "ht_goals": 1.4,
+    "n": 10
+  },
+  "1581:136:2026": {
+    "scored": 0.8,
+    "conceded": 1.1,
+    "ht_goals": 0.8,
+    "n": 10
+  },
+  "522:136:2026": {
+    "scored": 2.2,
+    "conceded": 1.4,
+    "ht_goals": 1.2,
+    "n": 10
+  },
+  "1578:136:2026": {
+    "scored": 1.2,
+    "conceded": 1.1,
+    "ht_goals": 0.9,
+    "n": 10
+  },
+  "12712:601:2026": {
+    "scored": 1.3,
+    "conceded": 2.1,
+    "ht_goals": 1.2,
+    "n": 10
+  },
+  "12713:601:2026": {
+    "scored": 2.0,
+    "conceded": 2.5,
+    "ht_goals": 1.7,
+    "n": 10
+  },
+  "20085:871:2026": {
+    "scored": 2.2,
+    "conceded": 2.4,
+    "ht_goals": 1.8,
+    "n": 5
+  },
+  "56:40:2026": {
+    "scored": 0.6,
+    "conceded": 1.5,
+    "ht_goals": 1.0,
+    "n": 10
+  },
+  "1837:40:2026": {
+    "scored": 1.2,
+    "conceded": 1.5,
+    "ht_goals": 1.1,
+    "n": 10
+  },
+  "43:40:2026": {
+    "scored": 2.1,
+    "conceded": 1.9,
+    "ht_goals": 2.0,
+    "n": 10
+  },
+  "59:40:2026": {
+    "scored": 0.8,
+    "conceded": 1.9,
+    "ht_goals": 1.5,
+    "n": 10
+  },
+  "1335:40:2026": {
+    "scored": 0.8,
+    "conceded": 1.8,
+    "ht_goals": 1.3,
+    "n": 10
+  },
+  "1379:40:2026": {
+    "scored": 1.0,
+    "conceded": 2.1,
+    "ht_goals": 1.0,
+    "n": 10
+  },
+  "70:40:2026": {
+    "scored": 2.0,
+    "conceded": 1.1,
+    "ht_goals": 1.2,
+    "n": 10
+  },
+  "76:40:2026": {
+    "scored": 1.6,
+    "conceded": 1.6,
+    "ht_goals": 1.8,
+    "n": 10
+  },
+  "71:40:2026": {
+    "scored": 2.4,
+    "conceded": 1.6,
+    "ht_goals": 1.7,
+    "n": 10
+  },
+  "72:40:2026": {
+    "scored": 1.8,
+    "conceded": 1.4,
+    "ht_goals": 1.8,
+    "n": 10
+  },
+  "1355:40:2026": {
+    "scored": 1.4,
+    "conceded": 1.1,
+    "ht_goals": 1.0,
+    "n": 10
+  },
+  "48:40:2026": {
+    "scored": 2.4,
+    "conceded": 1.5,
+    "ht_goals": 1.7,
+    "n": 10
+  },
+  "62:40:2026": {
+    "scored": 1.7,
+    "conceded": 1.1,
+    "ht_goals": 1.3,
+    "n": 10
+  },
+  "41:40:2026": {
+    "scored": 1.7,
+    "conceded": 0.8,
+    "ht_goals": 1.0,
+    "n": 10
+  },
+  "1362:42:2026": {
+    "scored": 1.3,
+    "conceded": 1.8,
+    "ht_goals": 1.2,
+    "n": 10
+  },
+  "1369:42:2026": {
+    "scored": 2.1,
+    "conceded": 1.4,
+    "ht_goals": 1.7,
+    "n": 10
   }
 }
