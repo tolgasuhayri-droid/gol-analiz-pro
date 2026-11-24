@@ -1,6 +1,49 @@
 {
-  "updated_at": "2026-11-24T17:12:45.218933+00:00",
-  "matches": [],
+  "updated_at": "2026-11-24T18:03:57.582967+00:00",
+  "matches": [
+    {
+      "home": "Bodo/Glimt",
+      "away": "Lask Linz",
+      "league": "UEFA Champions League",
+      "minute": 18,
+      "baseline": null,
+      "current": {
+        "minute": 18,
+        "stats": {
+          "shots": null,
+          "target": null,
+          "corners": null,
+          "inside": null,
+          "xg": null
+        },
+        "odds": 1.4,
+        "time": "2026-11-24T18:03:57.582967+00:00"
+      },
+      "score": null,
+      "selection": null
+    },
+    {
+      "home": "Galatasaray",
+      "away": "Aston Villa",
+      "league": "UEFA Champions League",
+      "minute": 19,
+      "baseline": null,
+      "current": {
+        "minute": 19,
+        "stats": {
+          "shots": 1.0,
+          "target": null,
+          "corners": null,
+          "inside": null,
+          "xg": 0.02
+        },
+        "odds": 1.571,
+        "time": "2026-11-24T18:03:57.582967+00:00"
+      },
+      "score": null,
+      "selection": null
+    }
+  ],
   "success": 0,
   "failure": 0
 }
