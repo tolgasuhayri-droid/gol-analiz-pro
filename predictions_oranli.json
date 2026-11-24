@@ -1,163 +1,339 @@
 {
-  "updated_at": "2026-11-23T21:43:25.356775+03:00",
-  "odds_snapshot_at": "2026-11-23T21:43:25.356775+03:00",
+  "updated_at": "2026-11-24T09:50:41.490534+03:00",
+  "odds_snapshot_at": "2026-11-24T09:50:41.490534+03:00",
   "matches": [
     {
-      "fixture_id": 1550203,
-      "kickoff": "2026-11-23T22:45:00+03:00",
-      "league": "Serie A",
-      "home": "Monza",
-      "away": "Fiorentina",
+      "fixture_id": 1602746,
+      "kickoff": "2026-11-24T15:00:00+03:00",
+      "league": "Thai League 2",
+      "home": "Nakhon Pathom",
+      "away": "Chainat",
       "status": "NS",
-      "over25": 0.7229,
-      "over35": 0.5162,
-      "ht_over05": 0.808,
-      "ht_over15": 0.4911,
+      "over25": 0.6406,
+      "over35": 0.4197,
+      "ht_over05": 0.7654,
+      "ht_over15": 0.4253,
       "analysis_status": "Hesaplandı",
       "odds": {
         "over25": {
-          "odd": 1.57,
+          "odd": 1.75,
           "bookmaker": "Bet365",
-          "implied_probability": 0.6369,
-          "ev": 0.135
+          "implied_probability": 0.5714,
+          "ev": 0.121
         },
         "over35": {
-          "odd": 2.38,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.4202,
-          "ev": 0.2286
+          "odd": 2.62,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.3817,
+          "ev": 0.0996
         },
         "ht_over05": {
           "odd": 1.29,
           "bookmaker": "William Hill",
           "implied_probability": 0.7752,
-          "ev": 0.0423
+          "ev": -0.0126
         },
         "ht_over15": {
-          "odd": 2.3,
+          "odd": 2.38,
           "bookmaker": "William Hill",
-          "implied_probability": 0.4348,
-          "ev": 0.1295
+          "implied_probability": 0.4202,
+          "ev": 0.0122
         }
       },
-      "best_market": "over35",
-      "best_ev": 0.2286,
-      "lambda_total": 3.75,
+      "best_market": "over25",
+      "best_ev": 0.121,
+      "lambda_total": 3.3,
       "home_n": 10,
       "away_n": 10
     },
     {
-      "fixture_id": 1608753,
-      "kickoff": "2026-11-23T22:30:00+03:00",
-      "league": "Serie C - Girone B",
-      "home": "Grosseto",
-      "away": "Guidonia Montecelio 1937",
+      "fixture_id": 1581945,
+      "kickoff": "2026-11-24T12:00:00+03:00",
+      "league": "Persha Liga",
+      "home": "Ahrobiznes Volochysk",
+      "away": "Chernihiv",
       "status": "NS",
-      "over25": 0.6603,
-      "over35": 0.4416,
-      "ht_over05": 0.8173,
-      "ht_over15": 0.5068,
+      "over25": 0.5064,
+      "over35": 0.2859,
+      "ht_over05": 0.6501,
+      "ht_over15": 0.2826,
       "analysis_status": "Hesaplandı",
       "odds": {
         "over25": {
-          "odd": 1.65,
+          "odd": 2.1,
           "bookmaker": "Bet365",
-          "implied_probability": 0.6061,
-          "ev": 0.0895
+          "implied_probability": 0.4762,
+          "ev": 0.0634
         },
         "over35": {
-          "odd": 2.5,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.4,
-          "ev": 0.104
+          "odd": 3.2,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.3125,
+          "ev": -0.0851
         },
         "ht_over05": {
-          "odd": 1.25,
+          "odd": 1.32,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.7576,
+          "ev": -0.1419
+        },
+        "ht_over15": {
+          "odd": 2.61,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.3831,
+          "ev": -0.2624
+        }
+      },
+      "best_market": "over25",
+      "best_ev": 0.0634,
+      "lambda_total": 2.7,
+      "home_n": 10,
+      "away_n": 10
+    },
+    {
+      "fixture_id": 1556696,
+      "kickoff": "2026-11-24T22:45:00+03:00",
+      "league": "Premiership",
+      "home": "Hibernian",
+      "away": "Dundee",
+      "status": "NS",
+      "over25": 0.6096,
+      "over35": 0.3863,
+      "ht_over05": 0.7878,
+      "ht_over15": 0.4588,
+      "analysis_status": "Hesaplandı",
+      "odds": {
+        "over25": {
+          "odd": 1.67,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.5988,
+          "ev": 0.018
+        },
+        "over35": {
+          "odd": 2.75,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.3636,
+          "ev": 0.0623
+        },
+        "ht_over05": {
+          "odd": 1.29,
           "bookmaker": "William Hill",
-          "implied_probability": 0.8,
-          "ev": 0.0216
+          "implied_probability": 0.7752,
+          "ev": 0.0163
         },
         "ht_over15": {
           "odd": 2.3,
           "bookmaker": "William Hill",
           "implied_probability": 0.4348,
-          "ev": 0.1656
+          "ev": 0.0552
         }
       },
-      "best_market": "ht_over15",
-      "best_ev": 0.1656,
-      "lambda_total": 3.4,
+      "best_market": "over35",
+      "best_ev": 0.0623,
+      "lambda_total": 3.15,
       "home_n": 10,
       "away_n": 10
     },
     {
-      "fixture_id": 1552536,
-      "kickoff": "2026-11-23T22:45:00+03:00",
-      "league": "Ligue 2",
-      "home": "Nantes",
-      "away": "Grenoble",
+      "fixture_id": 1635641,
+      "kickoff": "2026-11-24T20:45:00+03:00",
+      "league": "UEFA Champions League",
+      "home": "Bodo/Glimt",
+      "away": "Lask Linz",
+      "status": "NS",
+      "over25": 0.7702,
+      "over35": 0.5776,
+      "ht_over05": 0.8483,
+      "ht_over15": 0.5622,
+      "analysis_status": "Hesaplandı",
+      "odds": {
+        "over25": {
+          "odd": 1.28,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.7812,
+          "ev": -0.0141
+        },
+        "over35": {
+          "odd": 1.73,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.578,
+          "ev": -0.0008
+        },
+        "ht_over05": {
+          "odd": 1.15,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.8696,
+          "ev": -0.0245
+        },
+        "ht_over15": {
+          "odd": 1.73,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.578,
+          "ev": -0.0274
+        }
+      },
+      "best_market": "over35",
+      "best_ev": -0.0008,
+      "lambda_total": 4.06,
+      "home_n": 7,
+      "away_n": 5
+    },
+    {
+      "fixture_id": 1647899,
+      "kickoff": "2026-11-24T14:30:00+03:00",
+      "league": "Azadegan League",
+      "home": "Fard Alborz",
+      "away": "Pars Jonoubi JAM",
+      "status": "NS",
+      "over25": 0.3369,
+      "over35": 0.152,
+      "ht_over05": 0.6501,
+      "ht_over15": 0.2826,
+      "analysis_status": "Hesaplandı",
+      "odds": {
+        "over25": {
+          "odd": 2.49,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.4016,
+          "ev": -0.1611
+        },
+        "over35": {
+          "odd": 5.15,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.1942,
+          "ev": -0.2172
+        },
+        "ht_over05": {
+          "odd": 1.49,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.6711,
+          "ev": -0.0314
+        },
+        "ht_over15": {
+          "odd": 3.35,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.2985,
+          "ev": -0.0533
+        }
+      },
+      "best_market": "ht_over05",
+      "best_ev": -0.0314,
+      "lambda_total": 2.05,
+      "home_n": 10,
+      "away_n": 10
+    },
+    {
+      "fixture_id": 1604063,
+      "kickoff": "2026-11-24T15:15:00+03:00",
+      "league": "Division 1",
+      "home": "Al-Raed",
+      "away": "Al Okhdood",
+      "status": "NS",
+      "over25": 0.554,
+      "over35": 0.3304,
+      "ht_over05": 0.7408,
+      "ht_over15": 0.3908,
+      "analysis_status": "Hesaplandı",
+      "odds": {
+        "over25": {
+          "odd": 1.73,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.578,
+          "ev": -0.0416
+        },
+        "over35": {
+          "odd": 2.69,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.3717,
+          "ev": -0.1112
+        },
+        "ht_over05": {
+          "odd": 1.29,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.7752,
+          "ev": -0.0444
+        },
+        "ht_over15": {
+          "odd": 2.38,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.4202,
+          "ev": -0.0699
+        }
+      },
+      "best_market": "over25",
+      "best_ev": -0.0416,
+      "lambda_total": 2.9,
+      "home_n": 10,
+      "away_n": 10
+    },
+    {
+      "fixture_id": 1647339,
+      "kickoff": "2026-11-24T23:00:00+03:00",
+      "league": "Premiership",
+      "home": "Rangers",
+      "away": "Aberdeen",
       "status": "NS",
       "over25": 0.5424,
       "over35": 0.3192,
-      "ht_over05": 0.6988,
-      "ht_over15": 0.3374,
+      "ht_over05": 0.7654,
+      "ht_over15": 0.4253,
       "analysis_status": "Hesaplandı",
       "odds": {
         "over25": {
+          "odd": 1.44,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.6944,
+          "ev": -0.2189
+        },
+        "over35": {
           "odd": 2.0,
           "bookmaker": "Bet365",
           "implied_probability": 0.5,
-          "ev": 0.0848
-        },
-        "over35": {
-          "odd": 3.4,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.2941,
-          "ev": 0.0853
+          "ev": -0.3616
         },
         "ht_over05": {
-          "odd": 1.36,
+          "odd": 1.2,
           "bookmaker": "William Hill",
-          "implied_probability": 0.7353,
-          "ev": -0.0496
+          "implied_probability": 0.8333,
+          "ev": -0.0815
         },
         "ht_over15": {
-          "odd": 2.62,
+          "odd": 1.95,
           "bookmaker": "William Hill",
-          "implied_probability": 0.3817,
-          "ev": -0.116
+          "implied_probability": 0.5128,
+          "ev": -0.1707
         }
       },
-      "best_market": "over35",
-      "best_ev": 0.0853,
+      "best_market": "ht_over05",
+      "best_ev": -0.0815,
       "lambda_total": 2.85,
       "home_n": 10,
       "away_n": 10
     },
     {
-      "fixture_id": 1573653,
-      "kickoff": "2026-11-23T22:00:00+03:00",
-      "league": "Primera División Femenina",
-      "home": "Espanyol W",
-      "away": "Valencia W",
+      "fixture_id": 1558531,
+      "kickoff": "2026-11-24T16:00:00+03:00",
+      "league": "First League",
+      "home": "Arsenal Tivat",
+      "away": "Dečić",
       "status": "NS",
-      "over25": 0.494,
-      "over35": 0.2749,
+      "over25": 0.4433,
+      "over35": 0.2318,
       "ht_over05": 0.6321,
       "ht_over15": 0.2642,
       "analysis_status": "Hesaplandı",
       "odds": {
         "over25": {
-          "odd": 2.08,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.4808,
-          "ev": 0.0275
+          "odd": 2.02,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.495,
+          "ev": -0.1045
         },
         "over35": {
-          "odd": 3.75,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.2667,
-          "ev": 0.0309
+          "odd": 3.5,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.2857,
+          "ev": -0.1887
         },
         "ht_over05": {
           "odd": 1.36,
@@ -172,675 +348,194 @@
           "ev": -0.2734
         }
       },
-      "best_market": "over35",
-      "best_ev": 0.0309,
-      "lambda_total": 2.65,
-      "home_n": 10,
-      "away_n": 10
-    },
-    {
-      "fixture_id": 1608377,
-      "kickoff": "2026-11-23T22:45:00+03:00",
-      "league": "Serie C - Girone A",
-      "home": "Lecco",
-      "away": "Lumezzane",
-      "status": "NS",
-      "over25": 0.5305,
-      "over35": 0.3081,
-      "ht_over05": 0.7135,
-      "ht_over15": 0.3554,
-      "analysis_status": "Hesaplandı",
-      "odds": {
-        "over25": {
-          "odd": 1.9,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.5263,
-          "ev": 0.0079
-        },
-        "over35": {
-          "odd": 3.25,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.3077,
-          "ev": 0.0013
-        },
-        "ht_over05": {
-          "odd": 1.3,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.7692,
-          "ev": -0.0724
-        },
-        "ht_over15": {
-          "odd": 2.5,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.4,
-          "ev": -0.1115
-        }
-      },
       "best_market": "over25",
-      "best_ev": 0.0079,
-      "lambda_total": 2.8,
-      "home_n": 10,
-      "away_n": 10
-    },
-    {
-      "fixture_id": 1570457,
-      "kickoff": "2026-11-23T23:00:00+03:00",
-      "league": "La Liga",
-      "home": "Levante",
-      "away": "Elche",
-      "status": "NS",
-      "over25": 0.5879,
-      "over35": 0.364,
-      "ht_over05": 0.7275,
-      "ht_over15": 0.3732,
-      "analysis_status": "Hesaplandı",
-      "odds": {
-        "over25": {
-          "odd": 1.67,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.5988,
-          "ev": -0.0182
-        },
-        "over35": {
-          "odd": 2.62,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.3817,
-          "ev": -0.0463
-        },
-        "ht_over05": {
-          "odd": 1.3,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.7692,
-          "ev": -0.0542
-        },
-        "ht_over15": {
-          "odd": 2.4,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.4167,
-          "ev": -0.1043
-        }
-      },
-      "best_market": "over25",
-      "best_ev": -0.0182,
-      "lambda_total": 3.05,
-      "home_n": 10,
-      "away_n": 10
-    },
-    {
-      "fixture_id": 1570029,
-      "kickoff": "2026-11-23T22:30:00+03:00",
-      "league": "Segunda División",
-      "home": "AD Ceuta FC",
-      "away": "Almeria",
-      "status": "NS",
-      "over25": 0.5305,
-      "over35": 0.3081,
-      "ht_over05": 0.6671,
-      "ht_over15": 0.301,
-      "analysis_status": "Hesaplandı",
-      "odds": {
-        "over25": {
-          "odd": 1.8,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.5556,
-          "ev": -0.0451
-        },
-        "over35": {
-          "odd": 3.0,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.3333,
-          "ev": -0.0757
-        },
-        "ht_over05": {
-          "odd": 1.33,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.7519,
-          "ev": -0.1128
-        },
-        "ht_over15": {
-          "odd": 2.62,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.3817,
-          "ev": -0.2114
-        }
-      },
-      "best_market": "over25",
-      "best_ev": -0.0451,
-      "lambda_total": 2.8,
-      "home_n": 10,
-      "away_n": 10
-    },
-    {
-      "fixture_id": 1551885,
-      "kickoff": "2026-11-23T22:00:00+03:00",
-      "league": "Eerste Divisie",
-      "home": "Jong Ajax",
-      "away": "Jong AZ",
-      "status": "NS",
-      "over25": 0.7545,
-      "over35": 0.5567,
-      "ht_over05": 0.8262,
-      "ht_over15": 0.5221,
-      "analysis_status": "Hesaplandı",
-      "odds": {
-        "over25": {
-          "odd": 1.25,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.8,
-          "ev": -0.0569
-        },
-        "over35": {
-          "odd": 1.62,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.6173,
-          "ev": -0.0981
-        },
-        "ht_over05": {
-          "odd": 1.14,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.8772,
-          "ev": -0.0581
-        },
-        "ht_over15": {
-          "odd": 1.73,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.578,
-          "ev": -0.0968
-        }
-      },
-      "best_market": "over25",
-      "best_ev": -0.0569,
-      "lambda_total": 3.95,
-      "home_n": 10,
-      "away_n": 10
-    },
-    {
-      "fixture_id": 1551875,
-      "kickoff": "2026-11-23T22:00:00+03:00",
-      "league": "Eerste Divisie",
-      "home": "Vitesse",
-      "away": "De Graafschap",
-      "status": "NS",
-      "over25": 0.4816,
-      "over35": 0.264,
-      "ht_over05": 0.7534,
-      "ht_over15": 0.4082,
-      "analysis_status": "Hesaplandı",
-      "odds": {
-        "over25": {
-          "odd": 1.57,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.6369,
-          "ev": -0.2439
-        },
-        "over35": {
-          "odd": 2.38,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.4202,
-          "ev": -0.3717
-        },
-        "ht_over05": {
-          "odd": 1.22,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.8197,
-          "ev": -0.0809
-        },
-        "ht_over15": {
-          "odd": 2.1,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.4762,
-          "ev": -0.1428
-        }
-      },
-      "best_market": "ht_over05",
-      "best_ev": -0.0809,
-      "lambda_total": 2.6,
-      "home_n": 10,
-      "away_n": 10
-    },
-    {
-      "fixture_id": 1645548,
-      "kickoff": "2026-11-23T22:00:00+03:00",
-      "league": "Primera División",
-      "home": "Real Oruro",
-      "away": "Guabirá",
-      "status": "NS",
-      "over25": 0.6883,
-      "over35": 0.4741,
-      "ht_over05": 0.7654,
-      "ht_over15": 0.4253,
-      "analysis_status": "Hesaplandı",
-      "odds": {
-        "over25": {
-          "odd": 1.33,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.7519,
-          "ev": -0.0846
-        },
-        "over35": {
-          "odd": 1.8,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.5556,
-          "ev": -0.1466
-        },
-        "ht_over05": {
-          "odd": 1.15,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.8696,
-          "ev": -0.1198
-        },
-        "ht_over15": {
-          "odd": 1.73,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.578,
-          "ev": -0.2642
-        }
-      },
-      "best_market": "over25",
-      "best_ev": -0.0846,
-      "lambda_total": 3.55,
-      "home_n": 10,
-      "away_n": 10
-    },
-    {
-      "fixture_id": 1610892,
-      "kickoff": "2026-11-23T22:00:00+03:00",
-      "league": "1a Divisão - Women",
-      "home": "Sporting Braga W",
-      "away": "SL Benfica W",
-      "status": "NS",
-      "over25": 0.4774,
-      "over35": 0.2604,
-      "ht_over05": 0.6988,
-      "ht_over15": 0.3374,
-      "analysis_status": "Hesaplandı",
-      "odds": {
-        "over25": {
-          "odd": 1.85,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.5405,
-          "ev": -0.1168
-        },
-        "over35": {
-          "odd": 2.74,
-          "bookmaker": "Marathonbet",
-          "implied_probability": 0.365,
-          "ev": -0.2865
-        },
-        "ht_over05": {
-          "odd": 1.29,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.7752,
-          "ev": -0.0985
-        },
-        "ht_over15": {
-          "odd": 2.38,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.4202,
-          "ev": -0.197
-        }
-      },
-      "best_market": "ht_over05",
-      "best_ev": -0.0985,
-      "lambda_total": 2.58,
-      "home_n": 6,
-      "away_n": 5
-    },
-    {
-      "fixture_id": 1551886,
-      "kickoff": "2026-11-23T22:00:00+03:00",
-      "league": "Eerste Divisie",
-      "home": "Jong PSV U21",
-      "away": "Jong Utrecht",
-      "status": "NS",
-      "over25": 0.6304,
-      "over35": 0.4086,
-      "ht_over05": 0.7654,
-      "ht_over15": 0.4253,
-      "analysis_status": "Hesaplandı",
-      "odds": {
-        "over25": {
-          "odd": 1.36,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.7353,
-          "ev": -0.1427
-        },
-        "over35": {
-          "odd": 1.83,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.5464,
-          "ev": -0.2523
-        },
-        "ht_over05": {
-          "odd": 1.17,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.8547,
-          "ev": -0.1045
-        },
-        "ht_over15": {
-          "odd": 1.95,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.5128,
-          "ev": -0.1707
-        }
-      },
-      "best_market": "ht_over05",
       "best_ev": -0.1045,
-      "lambda_total": 3.25,
-      "home_n": 10,
-      "away_n": 10
-    },
-    {
-      "fixture_id": 1588461,
-      "kickoff": "2026-11-23T22:45:00+03:00",
-      "league": "National League - South",
-      "home": "Chelmsford City",
-      "away": "Maidstone Utd",
-      "status": "NS",
-      "over25": 0.5424,
-      "over35": 0.3192,
-      "ht_over05": 0.6834,
-      "ht_over15": 0.3192,
-      "analysis_status": "Hesaplandı",
-      "odds": {
-        "over25": {
-          "odd": 1.62,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.6173,
-          "ev": -0.1213
-        },
-        "over35": {
-          "odd": 2.5,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.4,
-          "ev": -0.202
-        },
-        "ht_over05": {
-          "odd": 1.3,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.7692,
-          "ev": -0.1116
-        },
-        "ht_over15": {
-          "odd": 2.5,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.4,
-          "ev": -0.202
-        }
-      },
-      "best_market": "ht_over05",
-      "best_ev": -0.1116,
-      "lambda_total": 2.85,
-      "home_n": 10,
-      "away_n": 10
-    },
-    {
-      "fixture_id": 1557469,
-      "kickoff": "2026-11-23T23:00:00+03:00",
-      "league": "Premier League",
-      "home": "Brentford",
-      "away": "Everton",
-      "status": "NS",
-      "over25": 0.4433,
-      "over35": 0.2318,
-      "ht_over05": 0.5507,
-      "ht_over15": 0.1912,
-      "analysis_status": "Hesaplandı",
-      "odds": {
-        "over25": {
-          "odd": 1.91,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.5236,
-          "ev": -0.1533
-        },
-        "over35": {
-          "odd": 3.2,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.3125,
-          "ev": -0.2582
-        },
-        "ht_over05": {
-          "odd": 1.3,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.7692,
-          "ev": -0.2841
-        },
-        "ht_over15": {
-          "odd": 2.5,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.4,
-          "ev": -0.522
-        }
-      },
-      "best_market": "over25",
-      "best_ev": -0.1533,
       "lambda_total": 2.45,
       "home_n": 10,
       "away_n": 10
     },
     {
-      "fixture_id": 1650506,
-      "kickoff": "2026-11-23T22:30:00+03:00",
-      "league": "Primera División",
-      "home": "Juventud",
-      "away": "Defensor Sporting",
-      "status": "NS",
-      "over25": 0.4433,
-      "over35": 0.2318,
-      "ht_over05": 0.6133,
-      "ht_over15": 0.2459,
-      "analysis_status": "Hesaplandı",
-      "odds": {
-        "over25": {
-          "odd": 1.9,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.5263,
-          "ev": -0.1577
-        },
-        "over35": {
-          "odd": 3.25,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.3077,
-          "ev": -0.2467
-        },
-        "ht_over05": {
-          "odd": 1.33,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.7519,
-          "ev": -0.1843
-        },
-        "ht_over15": {
-          "odd": 2.5,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.4,
-          "ev": -0.3852
-        }
-      },
-      "best_market": "over25",
-      "best_ev": -0.1577,
-      "lambda_total": 2.45,
-      "home_n": 10,
-      "away_n": 10
-    },
-    {
-      "fixture_id": 1649567,
-      "kickoff": "2026-11-23T23:00:00+03:00",
-      "league": "Liga Profesional Argentina",
-      "home": "Gimnasia L.P.",
-      "away": "Newells Old Boys",
-      "status": "NS",
-      "over25": 0.3504,
-      "over35": 0.1614,
-      "ht_over05": 0.5726,
-      "ht_over15": 0.2093,
-      "analysis_status": "Hesaplandı",
-      "odds": {
-        "over25": {
-          "odd": 2.3,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.4348,
-          "ev": -0.1941
-        },
-        "over35": {
-          "odd": 4.33,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.2309,
-          "ev": -0.3011
-        },
-        "ht_over05": {
-          "odd": 1.4,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.7143,
-          "ev": -0.1984
-        },
-        "ht_over15": {
-          "odd": 3.0,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.3333,
-          "ev": -0.3721
-        }
-      },
-      "best_market": "over25",
-      "best_ev": -0.1941,
-      "lambda_total": 2.1,
-      "home_n": 10,
-      "away_n": 10
-    },
-    {
-      "fixture_id": 1574792,
-      "kickoff": "2026-11-23T22:45:00+03:00",
-      "league": "Ligue 3",
-      "home": "Orleans",
-      "away": "Thionville Lusitanos",
+      "fixture_id": 1604067,
+      "kickoff": "2026-11-24T15:20:00+03:00",
+      "league": "Division 1",
+      "home": "Al Orubah",
+      "away": "Al Najma",
       "status": "NS",
       "over25": 0.4303,
       "over35": 0.2213,
-      "ht_over05": 0.5934,
-      "ht_over15": 0.2275,
+      "ht_over05": 0.6321,
+      "ht_over15": 0.2642,
       "analysis_status": "Hesaplandı",
       "odds": {
         "over25": {
-          "odd": 1.8,
+          "odd": 1.9,
           "bookmaker": "Bet365",
-          "implied_probability": 0.5556,
-          "ev": -0.2255
+          "implied_probability": 0.5263,
+          "ev": -0.1824
         },
         "over35": {
-          "odd": 3.0,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.3333,
-          "ev": -0.3361
+          "odd": 3.04,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.3289,
+          "ev": -0.3272
         },
         "ht_over05": {
           "odd": 1.33,
           "bookmaker": "William Hill",
           "implied_probability": 0.7519,
-          "ev": -0.2108
+          "ev": -0.1593
         },
         "ht_over15": {
           "odd": 2.5,
           "bookmaker": "William Hill",
           "implied_probability": 0.4,
-          "ev": -0.4313
+          "ev": -0.3395
         }
       },
       "best_market": "ht_over05",
-      "best_ev": -0.2108,
+      "best_ev": -0.1593,
       "lambda_total": 2.4,
       "home_n": 10,
       "away_n": 10
     },
     {
-      "fixture_id": 1552539,
-      "kickoff": "2026-11-23T22:45:00+03:00",
-      "league": "Ligue 2",
-      "home": "Sochaux",
-      "away": "Dunkerque",
+      "fixture_id": 1602745,
+      "kickoff": "2026-11-24T14:00:00+03:00",
+      "league": "Thai League 2",
+      "home": "Chanthaburi",
+      "away": "Esan Pattaya",
       "status": "NS",
-      "over25": 0.3504,
-      "over35": 0.1614,
-      "ht_over05": 0.5934,
-      "ht_over15": 0.2275,
+      "over25": 0.3907,
+      "over35": 0.1906,
+      "ht_over05": 0.5276,
+      "ht_over15": 0.1734,
       "analysis_status": "Hesaplandı",
       "odds": {
         "over25": {
-          "odd": 1.85,
+          "odd": 2.0,
           "bookmaker": "Bet365",
-          "implied_probability": 0.5405,
-          "ev": -0.3518
+          "implied_probability": 0.5,
+          "ev": -0.2186
         },
         "over35": {
-          "odd": 3.25,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.3077,
-          "ev": -0.4755
+          "odd": 3.14,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.3185,
+          "ev": -0.4015
         },
         "ht_over05": {
-          "odd": 1.3,
+          "odd": 1.33,
           "bookmaker": "William Hill",
-          "implied_probability": 0.7692,
-          "ev": -0.2286
+          "implied_probability": 0.7519,
+          "ev": -0.2983
         },
         "ht_over15": {
-          "odd": 2.5,
+          "odd": 2.62,
           "bookmaker": "William Hill",
-          "implied_probability": 0.4,
-          "ev": -0.4313
+          "implied_probability": 0.3817,
+          "ev": -0.5457
         }
       },
-      "best_market": "ht_over05",
-      "best_ev": -0.2286,
-      "lambda_total": 2.1,
+      "best_market": "over25",
+      "best_ev": -0.2186,
+      "lambda_total": 2.25,
       "home_n": 10,
       "away_n": 10
     },
     {
-      "fixture_id": 1627073,
-      "kickoff": "2026-11-23T22:00:00+03:00",
-      "league": "Premier League Cup",
-      "home": "Newcastle United U21",
-      "away": "Nottingham Forest U21",
+      "fixture_id": 1647898,
+      "kickoff": "2026-11-24T14:00:00+03:00",
+      "league": "Azadegan League",
+      "home": "Niroye Zamini",
+      "away": "Havadar",
       "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz",
+      "over25": 0.2038,
+      "over35": 0.0721,
+      "ht_over05": 0.3935,
+      "ht_over15": 0.0902,
+      "analysis_status": "Hesaplandı",
       "odds": {
         "over25": {
-          "odd": 1.36,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.7353,
-          "ev": null
+          "odd": 3.28,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.3049,
+          "ev": -0.3315
         },
         "over35": {
-          "odd": 1.9,
+          "odd": 6.9,
           "bookmaker": "Marathonbet",
-          "implied_probability": 0.5263,
-          "ev": null
+          "implied_probability": 0.1449,
+          "ev": -0.5025
         },
         "ht_over05": {
-          "odd": 1.17,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.8547,
-          "ev": null
+          "odd": 1.69,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.5917,
+          "ev": -0.335
         },
         "ht_over15": {
-          "odd": 1.95,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.5128,
-          "ev": null
+          "odd": 4.1,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.2439,
+          "ev": -0.6302
         }
       },
-      "best_market": null,
-      "best_ev": null
+      "best_market": "over25",
+      "best_ev": -0.3315,
+      "lambda_total": 1.55,
+      "home_n": 10,
+      "away_n": 10
     },
     {
-      "fixture_id": 1627128,
-      "kickoff": "2026-11-23T22:00:00+03:00",
-      "league": "Premier League Cup",
-      "home": "AFC Bournemouth U21",
-      "away": "Leicester City U21",
+      "fixture_id": 1604066,
+      "kickoff": "2026-11-24T15:20:00+03:00",
+      "league": "Division 1",
+      "home": "Al Jabalain",
+      "away": "Al Zulfi",
+      "status": "NS",
+      "over25": 0.2038,
+      "over35": 0.0721,
+      "ht_over05": 0.4231,
+      "ht_over15": 0.1057,
+      "analysis_status": "Hesaplandı",
+      "odds": {
+        "over25": {
+          "odd": 2.08,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.4808,
+          "ev": -0.5761
+        },
+        "over35": {
+          "odd": 3.2,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.3125,
+          "ev": -0.7693
+        },
+        "ht_over05": {
+          "odd": 1.4,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.7143,
+          "ev": -0.4077
+        },
+        "ht_over15": {
+          "odd": 3.0,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.3333,
+          "ev": -0.6829
+        }
+      },
+      "best_market": "ht_over05",
+      "best_ev": -0.4077,
+      "lambda_total": 1.55,
+      "home_n": 10,
+      "away_n": 10
+    },
+    {
+      "fixture_id": 1635667,
+      "kickoff": "2026-11-24T20:45:00+03:00",
+      "league": "UEFA Champions League",
+      "home": "Galatasaray",
+      "away": "Aston Villa",
       "status": "NS",
       "over25": null,
       "over35": null,
@@ -849,144 +544,21 @@
       "analysis_status": "Veri yetersiz",
       "odds": {
         "over25": {
-          "odd": 1.3,
+          "odd": 1.4,
           "bookmaker": "Bet365",
-          "implied_probability": 0.7692,
+          "implied_probability": 0.7143,
           "ev": null
         },
         "over35": {
-          "odd": 1.74,
-          "bookmaker": "Marathonbet",
-          "implied_probability": 0.5747,
-          "ev": null
-        },
-        "ht_over05": {
-          "odd": 1.15,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.8696,
-          "ev": null
-        },
-        "ht_over15": {
           "odd": 1.91,
-          "bookmaker": "William Hill",
+          "bookmaker": "Bet365",
           "implied_probability": 0.5236,
           "ev": null
-        }
-      },
-      "best_market": null,
-      "best_ev": null
-    },
-    {
-      "fixture_id": 1627129,
-      "kickoff": "2026-11-23T22:00:00+03:00",
-      "league": "Premier League Cup",
-      "home": "Brighton U21",
-      "away": "West Ham United U21",
-      "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz",
-      "odds": {
-        "over25": {
-          "odd": 1.44,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.6944,
-          "ev": null
-        },
-        "over35": {
-          "odd": 2.02,
-          "bookmaker": "Marathonbet",
-          "implied_probability": 0.495,
-          "ev": null
         },
         "ht_over05": {
-          "odd": 1.2,
+          "odd": 1.22,
           "bookmaker": "William Hill",
-          "implied_probability": 0.8333,
-          "ev": null
-        },
-        "ht_over15": {
-          "odd": 2.0,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.5,
-          "ev": null
-        }
-      },
-      "best_market": null,
-      "best_ev": null
-    },
-    {
-      "fixture_id": 1627130,
-      "kickoff": "2026-11-23T22:00:00+03:00",
-      "league": "Premier League Cup",
-      "home": "Reading U21",
-      "away": "Exeter U21",
-      "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz",
-      "odds": {
-        "over25": {
-          "odd": 1.36,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.7353,
-          "ev": null
-        },
-        "over35": {
-          "odd": 1.77,
-          "bookmaker": "Marathonbet",
-          "implied_probability": 0.565,
-          "ev": null
-        },
-        "ht_over05": {
-          "odd": 1.15,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.8696,
-          "ev": null
-        },
-        "ht_over15": {
-          "odd": 1.91,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.5236,
-          "ev": null
-        }
-      },
-      "best_market": null,
-      "best_ev": null
-    },
-    {
-      "fixture_id": 1627131,
-      "kickoff": "2026-11-23T22:00:00+03:00",
-      "league": "Premier League Cup",
-      "home": "Wolves U21",
-      "away": "Preston North End U21",
-      "status": "NS",
-      "over25": null,
-      "over35": null,
-      "ht_over05": null,
-      "ht_over15": null,
-      "analysis_status": "Veri yetersiz",
-      "odds": {
-        "over25": {
-          "odd": 1.44,
-          "bookmaker": "Bet365",
-          "implied_probability": 0.6944,
-          "ev": null
-        },
-        "over35": {
-          "odd": 2.12,
-          "bookmaker": "Marathonbet",
-          "implied_probability": 0.4717,
-          "ev": null
-        },
-        "ht_over05": {
-          "odd": 1.2,
-          "bookmaker": "William Hill",
-          "implied_probability": 0.8333,
+          "implied_probability": 0.8197,
           "ev": null
         },
         "ht_over15": {
@@ -1000,11 +572,11 @@
       "best_ev": null
     },
     {
-      "fixture_id": 1627167,
-      "kickoff": "2026-11-23T22:00:00+03:00",
-      "league": "Premier League Cup",
-      "home": "Birmingham City U21",
-      "away": "Gillingham FC U21",
+      "fixture_id": 1635611,
+      "kickoff": "2026-11-24T23:00:00+03:00",
+      "league": "UEFA Champions League",
+      "home": "Arsenal",
+      "away": "Borussia Dortmund",
       "status": "NS",
       "over25": null,
       "over35": null,
@@ -1013,15 +585,302 @@
       "analysis_status": "Veri yetersiz",
       "odds": {
         "over25": {
-          "odd": 1.28,
+          "odd": 1.62,
           "bookmaker": "Bet365",
-          "implied_probability": 0.7812,
+          "implied_probability": 0.6173,
           "ev": null
         },
         "over35": {
-          "odd": 1.63,
-          "bookmaker": "Marathonbet",
-          "implied_probability": 0.6135,
+          "odd": 2.5,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.4,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.29,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.7752,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 2.3,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.4348,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1635649,
+      "kickoff": "2026-11-24T23:00:00+03:00",
+      "league": "UEFA Champions League",
+      "home": "Como",
+      "away": "AEK Athens FC",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 1.33,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.7519,
+          "ev": null
+        },
+        "over35": {
+          "odd": 1.91,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.5236,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.2,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.8333,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 1.8,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.5556,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1635663,
+      "kickoff": "2026-11-24T23:00:00+03:00",
+      "league": "UEFA Champions League",
+      "home": "Feyenoord",
+      "away": "FC Porto",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 1.62,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.6173,
+          "ev": null
+        },
+        "over35": {
+          "odd": 2.5,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.4,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.25,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.8,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 2.25,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.4444,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1635692,
+      "kickoff": "2026-11-24T23:00:00+03:00",
+      "league": "UEFA Champions League",
+      "home": "Manchester City",
+      "away": "Napoli",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 1.3,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.7692,
+          "ev": null
+        },
+        "over35": {
+          "odd": 1.8,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.5556,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.2,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.8333,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 1.8,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.5556,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1635713,
+      "kickoff": "2026-11-24T23:00:00+03:00",
+      "league": "UEFA Champions League",
+      "home": "RB Leipzig",
+      "away": "Lens",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 1.3,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.7692,
+          "ev": null
+        },
+        "over35": {
+          "odd": 1.8,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.5556,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.17,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.8547,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 1.8,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.5556,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1635715,
+      "kickoff": "2026-11-24T23:00:00+03:00",
+      "league": "UEFA Champions League",
+      "home": "Real Madrid",
+      "away": "PSV Eindhoven",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 1.17,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.8547,
+          "ev": null
+        },
+        "over35": {
+          "odd": 1.44,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.6944,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.11,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.9009,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 1.6,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.625,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1635731,
+      "kickoff": "2026-11-24T23:00:00+03:00",
+      "league": "UEFA Champions League",
+      "home": "Slovan Bratislava",
+      "away": "Real Betis",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 1.36,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.7353,
+          "ev": null
+        },
+        "over35": {
+          "odd": 1.91,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.5236,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.2,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.8333,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 1.85,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.5405,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1629981,
+      "kickoff": "2026-11-24T10:45:00+03:00",
+      "league": "AFC Champions League Elite",
+      "home": "Newcastle Jets",
+      "away": "Kashiwa Reysol",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 1.33,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.7519,
+          "ev": null
+        },
+        "over35": {
+          "odd": 1.8,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.5556,
           "ev": null
         },
         "ht_over05": {
@@ -1031,9 +890,378 @@
           "ev": null
         },
         "ht_over15": {
-          "odd": 1.7,
+          "odd": 1.73,
           "bookmaker": "William Hill",
+          "implied_probability": 0.578,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1629982,
+      "kickoff": "2026-11-24T13:00:00+03:00",
+      "league": "AFC Champions League Elite",
+      "home": "Daejeon Citizen",
+      "away": "Beijing Guoan",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 1.62,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.6173,
+          "ev": null
+        },
+        "over35": {
+          "odd": 2.5,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.4,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.25,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.8,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 2.25,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.4444,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1629983,
+      "kickoff": "2026-11-24T13:00:00+03:00",
+      "league": "AFC Champions League Elite",
+      "home": "Kyoto Sanga",
+      "away": "Pohang Steelers",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 1.85,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.5405,
+          "ev": null
+        },
+        "over35": {
+          "odd": 3.25,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.3077,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.36,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.7353,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 2.62,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.3817,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1637380,
+      "kickoff": "2026-11-24T13:00:00+03:00",
+      "league": "UEFA Youth League",
+      "home": "Bodø / Glimt U19",
+      "away": "LASK U19",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 1.3,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.7692,
+          "ev": null
+        },
+        "over35": {
+          "odd": 1.73,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.578,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.17,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.8547,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 1.91,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.5236,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1637383,
+      "kickoff": "2026-11-24T14:00:00+03:00",
+      "league": "UEFA Youth League",
+      "home": "Galatasaray U19",
+      "away": "Aston Villa U19",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 1.36,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.7353,
+          "ev": null
+        },
+        "over35": {
+          "odd": 1.83,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.5464,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.14,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.8772,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 1.73,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.578,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1646782,
+      "kickoff": "2026-11-24T15:00:00+03:00",
+      "league": "Super League",
+      "home": "Luanda Villa",
+      "away": "Equity Bank",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 2.62,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.3817,
+          "ev": null
+        },
+        "over35": {
+          "odd": 5.05,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.198,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.49,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.6711,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 3.35,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.2985,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1646783,
+      "kickoff": "2026-11-24T15:00:00+03:00",
+      "league": "Super League",
+      "home": "MOFA",
+      "away": "Nairobi City Stars",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 2.75,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.3636,
+          "ev": null
+        },
+        "over35": {
+          "odd": 5.2,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.1923,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.53,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.6536,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 3.42,
+          "bookmaker": "Marathonbet",
+          "implied_probability": 0.2924,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1629984,
+      "kickoff": "2026-11-24T15:15:00+03:00",
+      "league": "AFC Champions League Elite",
+      "home": "Công An Nhân Dân",
+      "away": "Vissel Kobe",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 1.7,
+          "bookmaker": "Bet365",
           "implied_probability": 0.5882,
+          "ev": null
+        },
+        "over35": {
+          "odd": 2.62,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.3817,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.25,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.8,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 2.25,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.4444,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1629985,
+      "kickoff": "2026-11-24T15:15:00+03:00",
+      "league": "AFC Champions League Elite",
+      "home": "Ratchaburi",
+      "away": "Johor Darul Takzim FC",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 1.5,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.6667,
+          "ev": null
+        },
+        "over35": {
+          "odd": 2.2,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.4545,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.2,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.8333,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 1.95,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.5128,
+          "ev": null
+        }
+      },
+      "best_market": null,
+      "best_ev": null
+    },
+    {
+      "fixture_id": 1629986,
+      "kickoff": "2026-11-24T15:15:00+03:00",
+      "league": "AFC Champions League Elite",
+      "home": "SHANGHAI SIPG",
+      "away": "Buriram United",
+      "status": "NS",
+      "over25": null,
+      "over35": null,
+      "ht_over05": null,
+      "ht_over15": null,
+      "analysis_status": "Veri yetersiz",
+      "odds": {
+        "over25": {
+          "odd": 1.7,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.5882,
+          "ev": null
+        },
+        "over35": {
+          "odd": 2.62,
+          "bookmaker": "Bet365",
+          "implied_probability": 0.3817,
+          "ev": null
+        },
+        "ht_over05": {
+          "odd": 1.25,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.8,
+          "ev": null
+        },
+        "ht_over15": {
+          "odd": 2.2,
+          "bookmaker": "William Hill",
+          "implied_probability": 0.4545,
           "ev": null
         }
       },
