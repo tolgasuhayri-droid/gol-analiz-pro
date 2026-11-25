@@ -1,49 +1,6 @@
 {
-  "updated_at": "2026-11-25T20:34:30.769591+00:00",
-  "matches": [
-    {
-      "home": "Inter",
-      "away": "VfB Stuttgart",
-      "league": "UEFA Champions League",
-      "minute": 34,
-      "baseline": null,
-      "current": {
-        "minute": 34,
-        "stats": {
-          "shots": 10.0,
-          "target": 2.0,
-          "corners": 6.0,
-          "inside": 9.0,
-          "xg": 1.05
-        },
-        "odds": 2.375,
-        "time": "2026-11-25T20:34:30.769591+00:00"
-      },
-      "score": null,
-      "selection": null
-    },
-    {
-      "home": "Shakhtar Donetsk",
-      "away": "Fenerbahçe",
-      "league": "UEFA Champions League",
-      "minute": 33,
-      "baseline": null,
-      "current": {
-        "minute": 33,
-        "stats": {
-          "shots": 5.0,
-          "target": 1.0,
-          "corners": 2.0,
-          "inside": 3.0,
-          "xg": 0.55
-        },
-        "odds": 2.75,
-        "time": "2026-11-25T20:34:30.769591+00:00"
-      },
-      "score": null,
-      "selection": null
-    }
-  ],
+  "updated_at": "2026-11-25T21:35:33.843870+00:00",
+  "matches": [],
   "success": 0,
   "failure": 0
 }
