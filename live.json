@@ -1,6 +1,49 @@
 {
-  "updated_at": "2026-11-25T17:10:59.984438+00:00",
-  "matches": [],
+  "updated_at": "2026-11-25T17:56:56.231833+00:00",
+  "matches": [
+    {
+      "home": "Sabah FA",
+      "away": "Barcelona",
+      "league": "UEFA Champions League",
+      "minute": 12,
+      "baseline": null,
+      "current": {
+        "minute": 12,
+        "stats": {
+          "shots": 1.0,
+          "target": 1.0,
+          "corners": null,
+          "inside": 1.0,
+          "xg": 0.27
+        },
+        "odds": 1.166,
+        "time": "2026-11-25T17:56:56.231833+00:00"
+      },
+      "score": null,
+      "selection": null
+    },
+    {
+      "home": "Slavia Praha",
+      "away": "Villarreal",
+      "league": "UEFA Champions League",
+      "minute": 12,
+      "baseline": null,
+      "current": {
+        "minute": 12,
+        "stats": {
+          "shots": 1.0,
+          "target": 0.0,
+          "corners": 1.0,
+          "inside": 1.0,
+          "xg": 0.07
+        },
+        "odds": 1.4,
+        "time": "2026-11-25T17:56:56.231833+00:00"
+      },
+      "score": null,
+      "selection": null
+    }
+  ],
   "success": 0,
   "failure": 0
 }
