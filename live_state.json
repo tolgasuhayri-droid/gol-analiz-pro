@@ -172,5 +172,24 @@
     "home": "Sporting CP",
     "away": "Manchester United",
     "league": "UEFA Champions League"
+  },
+  "1636435": {
+    "home": "Kairat Almaty",
+    "away": "Mjallby AIF",
+    "league": "UEFA Europa Conference League",
+    "history": {
+      "13": {
+        "minute": 13,
+        "stats": {
+          "shots": 6.0,
+          "target": 1.0,
+          "corners": null,
+          "inside": 3.0,
+          "xg": 0.27
+        },
+        "odds": 1.666,
+        "time": "2026-11-26T15:43:54.523186+00:00"
+      }
+    }
   }
 }

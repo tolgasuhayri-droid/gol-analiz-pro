@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-26T14:46:16.086509+00:00",
-  "matches": [],
+  "updated_at": "2026-11-26T15:43:54.523186+00:00",
+  "matches": [
+    {
+      "home": "Kairat Almaty",
+      "away": "Mjallby AIF",
+      "league": "UEFA Europa Conference League",
+      "minute": 13,
+      "baseline": null,
+      "current": {
+        "minute": 13,
+        "stats": {
+          "shots": 6.0,
+          "target": 1.0,
+          "corners": null,
+          "inside": 3.0,
+          "xg": 0.27
+        },
+        "odds": 1.666,
+        "time": "2026-11-26T15:43:54.523186+00:00"
+      },
+      "score": null,
+      "selection": null
+    }
+  ],
   "success": 0,
   "failure": 0
 }
