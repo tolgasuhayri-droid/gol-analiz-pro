@@ -191,5 +191,85 @@
         "time": "2026-11-26T15:43:54.523186+00:00"
       }
     }
+  },
+  "1636244": {
+    "home": "Celta Vigo",
+    "away": "Bournemouth",
+    "league": "UEFA Europa League"
+  },
+  "1636329": {
+    "home": "Union St. Gilloise",
+    "away": "Lech Poznan",
+    "league": "UEFA Europa League"
+  },
+  "1636381": {
+    "home": "Ajax",
+    "away": "FC Thun",
+    "league": "UEFA Europa Conference League"
+  },
+  "1636395": {
+    "home": "Brighton",
+    "away": "Universitatea Craiova",
+    "league": "UEFA Europa Conference League"
+  },
+  "1636421": {
+    "home": "Heart Of Midlothian",
+    "away": "Monaco",
+    "league": "UEFA Europa Conference League"
+  },
+  "1636438": {
+    "home": "Kauno Žalgiris",
+    "away": "Riga",
+    "league": "UEFA Europa Conference League"
+  },
+  "1636255": {
+    "home": "Dinamo Zagreb",
+    "away": "Bayer Leverkusen",
+    "league": "UEFA Europa League"
+  },
+  "1636298": {
+    "home": "Marseille",
+    "away": "Levski Sofia",
+    "league": "UEFA Europa League"
+  },
+  "1636307": {
+    "home": "Olympiakos Piraeus",
+    "away": "AC Milan",
+    "league": "UEFA Europa League"
+  },
+  "1636315": {
+    "home": "Plzen",
+    "away": "Benfica",
+    "league": "UEFA Europa League"
+  },
+  "1636334": {
+    "home": "Red Bull Salzburg",
+    "away": "Ararat-Armenia",
+    "league": "UEFA Europa League"
+  },
+  "1636393": {
+    "home": "Brann",
+    "away": "Aarhus",
+    "league": "UEFA Europa Conference League"
+  },
+  "1636405": {
+    "home": "Egnatia Rrogozhinë",
+    "away": "Lincoln Red Imps FC",
+    "league": "UEFA Europa Conference League"
+  },
+  "1636426": {
+    "home": "FC Iberia 1999",
+    "away": "Getafe",
+    "league": "UEFA Europa Conference League"
+  },
+  "1636431": {
+    "home": "FK Jablonec",
+    "away": "FC Lugano",
+    "league": "UEFA Europa Conference League"
+  },
+  "1636460": {
+    "home": "Pafos",
+    "away": "FC Midtjylland",
+    "league": "UEFA Europa Conference League"
   }
 }
