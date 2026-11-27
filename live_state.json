@@ -478,5 +478,15 @@
         "time": "2026-11-26T20:32:16.571201+00:00"
       }
     }
+  },
+  "1584475": {
+    "home": "Alanyaspor",
+    "away": "Konyaspor",
+    "league": "Süper Lig"
+  },
+  "1584482": {
+    "home": "Rizespor",
+    "away": "Kasımpaşa",
+    "league": "Süper Lig"
   }
 }
