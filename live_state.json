@@ -488,5 +488,43 @@
     "home": "Rizespor",
     "away": "Kasımpaşa",
     "league": "Süper Lig"
+  },
+  "1552238": {
+    "home": "Groningen",
+    "away": "Willem II",
+    "league": "Eredivisie",
+    "history": {
+      "28": {
+        "minute": 28,
+        "stats": {
+          "shots": 10.0,
+          "target": 5.0,
+          "corners": 3.0,
+          "inside": 6.0,
+          "xg": 1.4
+        },
+        "odds": 1.833,
+        "time": "2026-11-27T19:31:54.808037+00:00"
+      }
+    }
+  },
+  "1575237": {
+    "home": "Werder Bremen",
+    "away": "Borussia Mönchengladbach",
+    "league": "Bundesliga",
+    "history": {
+      "1": {
+        "minute": 1,
+        "stats": {
+          "shots": 0.0,
+          "target": 0.0,
+          "corners": 0.0,
+          "inside": null,
+          "xg": null
+        },
+        "odds": 1.25,
+        "time": "2026-11-27T19:31:54.808037+00:00"
+      }
+    }
   }
 }
