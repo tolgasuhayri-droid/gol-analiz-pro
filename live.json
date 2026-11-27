@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-11-27T19:31:54.808037+00:00",
+  "updated_at": "2026-11-27T20:27:44.625894+00:00",
   "matches": [
     {
-      "home": "Groningen",
-      "away": "Willem II",
-      "league": "Eredivisie",
-      "minute": 28,
+      "home": "Levante",
+      "away": "Racing Santander",
+      "league": "La Liga",
+      "minute": 26,
       "baseline": null,
       "current": {
-        "minute": 28,
+        "minute": 26,
         "stats": {
-          "shots": 10.0,
-          "target": 5.0,
-          "corners": 3.0,
-          "inside": 6.0,
-          "xg": 1.4
+          "shots": 8.0,
+          "target": 0.0,
+          "corners": 6.0,
+          "inside": 5.0,
+          "xg": 0.53
         },
-        "odds": 1.833,
-        "time": "2026-11-27T19:31:54.808037+00:00"
+        "odds": 1.8,
+        "time": "2026-11-27T20:27:44.625894+00:00"
       },
       "score": null,
       "selection": null
     },
     {
-      "home": "Werder Bremen",
-      "away": "Borussia Mönchengladbach",
-      "league": "Bundesliga",
-      "minute": 1,
+      "home": "Maritimo",
+      "away": "Nacional",
+      "league": "Primeira Liga",
+      "minute": 12,
       "baseline": null,
       "current": {
-        "minute": 1,
+        "minute": 12,
         "stats": {
-          "shots": 0.0,
+          "shots": null,
           "target": 0.0,
-          "corners": 0.0,
+          "corners": 2.0,
           "inside": null,
-          "xg": null
+          "xg": 0.0
         },
-        "odds": 1.25,
-        "time": "2026-11-27T19:31:54.808037+00:00"
+        "odds": 1.571,
+        "time": "2026-11-27T20:27:44.625894+00:00"
       },
       "score": null,
       "selection": null
