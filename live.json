@@ -1,49 +1,6 @@
 {
-  "updated_at": "2026-11-27T20:27:44.625894+00:00",
-  "matches": [
-    {
-      "home": "Levante",
-      "away": "Racing Santander",
-      "league": "La Liga",
-      "minute": 26,
-      "baseline": null,
-      "current": {
-        "minute": 26,
-        "stats": {
-          "shots": 8.0,
-          "target": 0.0,
-          "corners": 6.0,
-          "inside": 5.0,
-          "xg": 0.53
-        },
-        "odds": 1.8,
-        "time": "2026-11-27T20:27:44.625894+00:00"
-      },
-      "score": null,
-      "selection": null
-    },
-    {
-      "home": "Maritimo",
-      "away": "Nacional",
-      "league": "Primeira Liga",
-      "minute": 12,
-      "baseline": null,
-      "current": {
-        "minute": 12,
-        "stats": {
-          "shots": null,
-          "target": 0.0,
-          "corners": 2.0,
-          "inside": null,
-          "xg": 0.0
-        },
-        "odds": 1.571,
-        "time": "2026-11-27T20:27:44.625894+00:00"
-      },
-      "score": null,
-      "selection": null
-    }
-  ],
+  "updated_at": "2026-11-27T21:26:31.473631+00:00",
+  "matches": [],
   "success": 0,
   "failure": 0
 }
