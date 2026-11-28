@@ -584,5 +584,24 @@
         "time": "2026-11-27T20:27:44.625894+00:00"
       }
     }
+  },
+  "1584483": {
+    "home": "Samsunspor",
+    "away": "Gençlerbirliği S.K.",
+    "league": "Süper Lig",
+    "history": {
+      "2": {
+        "minute": 2,
+        "stats": {
+          "shots": 0.0,
+          "target": 0.0,
+          "corners": 0.0,
+          "inside": null,
+          "xg": null
+        },
+        "odds": 1.333,
+        "time": "2026-11-28T13:02:08.896865+00:00"
+      }
+    }
   }
 }
