@@ -1,49 +1,6 @@
 {
-  "updated_at": "2026-11-28T18:00:16.923043+00:00",
-  "matches": [
-    {
-      "home": "PSV Eindhoven",
-      "away": "GO Ahead Eagles",
-      "league": "Eredivisie",
-      "minute": 13,
-      "baseline": null,
-      "current": {
-        "minute": 13,
-        "stats": {
-          "shots": 1.0,
-          "target": 1.0,
-          "corners": null,
-          "inside": null,
-          "xg": 0.03
-        },
-        "odds": 1.25,
-        "time": "2026-11-28T18:00:16.923043+00:00"
-      },
-      "score": null,
-      "selection": null
-    },
-    {
-      "home": "VfB Stuttgart",
-      "away": "Eintracht Frankfurt",
-      "league": "Bundesliga",
-      "minute": 30,
-      "baseline": null,
-      "current": {
-        "minute": 30,
-        "stats": {
-          "shots": 5.0,
-          "target": 1.0,
-          "corners": 3.0,
-          "inside": 4.0,
-          "xg": 0.25
-        },
-        "odds": 1.909,
-        "time": "2026-11-28T18:00:16.923043+00:00"
-      },
-      "score": null,
-      "selection": null
-    }
-  ],
+  "updated_at": "2026-11-28T18:48:16.229557+00:00",
+  "matches": [],
   "success": 0,
   "failure": 0
 }
