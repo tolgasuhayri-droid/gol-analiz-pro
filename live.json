@@ -1,44 +1,23 @@
 {
-  "updated_at": "2026-11-28T16:25:54.117245+00:00",
+  "updated_at": "2026-11-28T17:16:26.464623+00:00",
   "matches": [
     {
-      "home": "Angers",
-      "away": "Lens",
-      "league": "Ligue 1",
-      "minute": 11,
+      "home": "Torino",
+      "away": "Lazio",
+      "league": "Serie A",
+      "minute": 15,
       "baseline": null,
       "current": {
-        "minute": 11,
+        "minute": 15,
         "stats": {
-          "shots": 2.0,
-          "target": 0.0,
-          "corners": null,
-          "inside": null,
-          "xg": 0.13
-        },
-        "odds": 1.444,
-        "time": "2026-11-28T16:25:54.117245+00:00"
-      },
-      "score": null,
-      "selection": null
-    },
-    {
-      "home": "Gaziantep FK",
-      "away": "Amed",
-      "league": "Süper Lig",
-      "minute": 27,
-      "baseline": null,
-      "current": {
-        "minute": 27,
-        "stats": {
-          "shots": 7.0,
+          "shots": 3.0,
           "target": 2.0,
-          "corners": 5.0,
-          "inside": 6.0,
-          "xg": 0.41000000000000003
+          "corners": 1.0,
+          "inside": 2.0,
+          "xg": 0.26
         },
-        "odds": 2.1,
-        "time": "2026-11-28T16:25:54.117245+00:00"
+        "odds": 1.571,
+        "time": "2026-11-28T17:16:26.464623+00:00"
       },
       "score": null,
       "selection": null
