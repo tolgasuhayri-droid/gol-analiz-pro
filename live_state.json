@@ -627,5 +627,53 @@
     "home": "Real Betis",
     "away": "Rayo Vallecano",
     "league": "La Liga"
+  },
+  "1575234": {
+    "home": "FSV Mainz 05",
+    "away": "Union Berlin",
+    "league": "Bundesliga",
+    "history": {
+      "23": {
+        "minute": 23,
+        "stats": {
+          "shots": 5.0,
+          "target": 1.0,
+          "corners": 2.0,
+          "inside": 2.0,
+          "xg": 0.16
+        },
+        "odds": 1.727,
+        "time": "2026-11-28T14:52:44.552629+00:00"
+      }
+    }
+  },
+  "1575235": {
+    "home": "Hamburger SV",
+    "away": "Bayern München",
+    "league": "Bundesliga",
+    "history": {
+      "23": {
+        "minute": 23,
+        "stats": {
+          "shots": 6.0,
+          "target": 0.0,
+          "corners": 3.0,
+          "inside": 1.0,
+          "xg": 0.35
+        },
+        "odds": 1.615,
+        "time": "2026-11-28T14:52:44.552629+00:00"
+      }
+    }
+  },
+  "1575236": {
+    "home": "1. FC Köln",
+    "away": "SV Elversberg",
+    "league": "Bundesliga"
+  },
+  "1575238": {
+    "home": "SC Paderborn 07",
+    "away": "FC Schalke 04",
+    "league": "Bundesliga"
   }
 }

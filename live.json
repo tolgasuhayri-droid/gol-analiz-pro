@@ -1,23 +1,44 @@
 {
-  "updated_at": "2026-11-28T14:04:11.750476+00:00",
+  "updated_at": "2026-11-28T14:52:44.552629+00:00",
   "matches": [
     {
-      "home": "Frosinone",
-      "away": "Parma",
-      "league": "Serie A",
-      "minute": 2,
+      "home": "FSV Mainz 05",
+      "away": "Union Berlin",
+      "league": "Bundesliga",
+      "minute": 23,
       "baseline": null,
       "current": {
-        "minute": 2,
+        "minute": 23,
         "stats": {
-          "shots": 0.0,
-          "target": 0.0,
-          "corners": 0.0,
-          "inside": null,
-          "xg": null
+          "shots": 5.0,
+          "target": 1.0,
+          "corners": 2.0,
+          "inside": 2.0,
+          "xg": 0.16
         },
-        "odds": 1.181,
-        "time": "2026-11-28T14:04:11.750476+00:00"
+        "odds": 1.727,
+        "time": "2026-11-28T14:52:44.552629+00:00"
+      },
+      "score": null,
+      "selection": null
+    },
+    {
+      "home": "Hamburger SV",
+      "away": "Bayern München",
+      "league": "Bundesliga",
+      "minute": 23,
+      "baseline": null,
+      "current": {
+        "minute": 23,
+        "stats": {
+          "shots": 6.0,
+          "target": 0.0,
+          "corners": 3.0,
+          "inside": 1.0,
+          "xg": 0.35
+        },
+        "odds": 1.615,
+        "time": "2026-11-28T14:52:44.552629+00:00"
       },
       "score": null,
       "selection": null
