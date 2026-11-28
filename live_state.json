@@ -603,5 +603,29 @@
         "time": "2026-11-28T13:02:08.896865+00:00"
       }
     }
+  },
+  "1550210": {
+    "home": "Frosinone",
+    "away": "Parma",
+    "league": "Serie A",
+    "history": {
+      "2": {
+        "minute": 2,
+        "stats": {
+          "shots": 0.0,
+          "target": 0.0,
+          "corners": 0.0,
+          "inside": null,
+          "xg": null
+        },
+        "odds": 1.181,
+        "time": "2026-11-28T14:04:11.750476+00:00"
+      }
+    }
+  },
+  "1570463": {
+    "home": "Real Betis",
+    "away": "Rayo Vallecano",
+    "league": "La Liga"
   }
 }

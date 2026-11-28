@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-28T13:02:08.896865+00:00",
+  "updated_at": "2026-11-28T14:04:11.750476+00:00",
   "matches": [
     {
-      "home": "Samsunspor",
-      "away": "Gençlerbirliği S.K.",
-      "league": "Süper Lig",
+      "home": "Frosinone",
+      "away": "Parma",
+      "league": "Serie A",
       "minute": 2,
       "baseline": null,
       "current": {
@@ -16,8 +16,8 @@
           "inside": null,
           "xg": null
         },
-        "odds": 1.333,
-        "time": "2026-11-28T13:02:08.896865+00:00"
+        "odds": 1.181,
+        "time": "2026-11-28T14:04:11.750476+00:00"
       },
       "score": null,
       "selection": null
