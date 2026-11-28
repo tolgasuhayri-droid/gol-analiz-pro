@@ -851,5 +851,58 @@
         "time": "2026-11-28T17:16:26.464623+00:00"
       }
     }
+  },
+  "1552240": {
+    "home": "PSV Eindhoven",
+    "away": "GO Ahead Eagles",
+    "league": "Eredivisie",
+    "history": {
+      "13": {
+        "minute": 13,
+        "stats": {
+          "shots": 1.0,
+          "target": 1.0,
+          "corners": null,
+          "inside": null,
+          "xg": 0.03
+        },
+        "odds": 1.25,
+        "time": "2026-11-28T18:00:16.923043+00:00"
+      }
+    }
+  },
+  "1557482": {
+    "home": "Ipswich",
+    "away": "Aston Villa",
+    "league": "Premier League"
+  },
+  "1558690": {
+    "home": "Cercle Brugge",
+    "away": "KV Mechelen",
+    "league": "Jupiler Pro League"
+  },
+  "1570466": {
+    "home": "Elche",
+    "away": "Atletico Madrid",
+    "league": "La Liga"
+  },
+  "1575231": {
+    "home": "VfB Stuttgart",
+    "away": "Eintracht Frankfurt",
+    "league": "Bundesliga",
+    "history": {
+      "30": {
+        "minute": 30,
+        "stats": {
+          "shots": 5.0,
+          "target": 1.0,
+          "corners": 3.0,
+          "inside": 4.0,
+          "xg": 0.25
+        },
+        "odds": 1.909,
+        "time": "2026-11-28T18:00:16.923043+00:00"
+      }
+    }
   }
 }
